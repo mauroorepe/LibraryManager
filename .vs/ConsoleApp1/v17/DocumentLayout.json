@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maurorepetto\\source\\repos\\consoleapp1\\consoleapp1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922692C-3F9D-4F7A-9CE7-B1DA84014A1A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Constants.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Constants.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Constants.cs",
+              "RelativeToolTip": "ConsoleApp1\\Constants.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:23:59.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:27:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Loan.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Loan.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Loan.cs",
+              "RelativeToolTip": "ConsoleApp1\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:16:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Library.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Library.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Library.cs",
+              "RelativeToolTip": "ConsoleApp1\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:17:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\User.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "ConsoleApp1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:12:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Response.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Response.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Response.cs",
+              "RelativeToolTip": "ConsoleApp1\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:16:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Book.cs",
+              "ToolTip": "C:\\Users\\MauroRepetto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "ConsoleApp1\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:11:16.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
