@@ -1,6 +1,6 @@
 ﻿using LibraryManager;
 
-//test main
+//test main 2
 internal class Program
 {
     private static void Main(string[] args)
@@ -71,6 +71,8 @@ internal class Program
                                     break;
                                 case 3:
                                     //Lend Book logic
+                                    //Agregar logica para agregar usuario si intenta pedir un prestamo y no existe
+
                                     Console.WriteLine(Constants.RequestUserId);
 
                                     input = Console.ReadLine();
@@ -175,8 +177,8 @@ internal class Program
                                     int repeat;
                                     do
                                     {
-                                        var response = ValidateBook();
-
+                                        var response = InitializeBook();
+                                        
                                         if (response.Status == 200)
                                         {
                                             library.AddBook(response.Book!);
@@ -240,7 +242,7 @@ internal class Program
 
         }
 
-        Response ValidateBook()
+        Response InitializeBook()
         {
             Console.WriteLine(Constants.RequestTitle);
 
