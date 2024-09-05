@@ -38,7 +38,7 @@ internal class Program
                                     int repeat;
                                     do
                                     {
-                                        var response = ValidateUser();
+                                        var response = InitializeUser();
 
                                         if (response.Status == 200 && response.User != null)
                                         {
@@ -89,7 +89,7 @@ internal class Program
 
                                     var UserResponse = UserSearch(userId);
 
-                                    var Available = ValidateLoan(bookResponse, UserResponse);
+                                    var Available = InitializeLoan(bookResponse, UserResponse);
 
                                     if (bookResponse.Status == 200 && UserResponse.Status == 200 && Available.Status == 200)
                                     {
@@ -312,7 +312,7 @@ internal class Program
                 Status = 200
             };
         }
-        Response ValidateUser()
+        Response InitializeUser()
         {
             Console.WriteLine(Constants.RequestUserName);
 
@@ -356,7 +356,7 @@ internal class Program
                 Status = 200
             };
         }
-        Response ValidateLoan(Response book, Response user)
+        Response InitializeLoan(Response book, Response user)
         {
             if (!library.Loans.Any(b => b.Book == book.Book) || !library.Loans.Any(l => l.Book == book.Book && l.ReturnDate == null))//Por que si niego la segunda condicion entra igual al if
             {
